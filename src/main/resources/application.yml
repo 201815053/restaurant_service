@@ -1,0 +1,16 @@
+naver:
+  url:
+    search:
+      local: https://openapi.naver.com/v1/search/local.json
+      image: https://openapi.naver.com/v1/search/image
+  client:
+    id: 7SWaIO8Bx21aLaeBasz7
+    secret: kRqUMv3vRt
+
+spring:
+
+  mvc:
+
+    pathmatch:
+
+      matching-strategy: ant_path_matcher
