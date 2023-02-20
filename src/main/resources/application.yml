@@ -4,8 +4,8 @@ naver:
       local: https://openapi.naver.com/v1/search/local.json
       image: https://openapi.naver.com/v1/search/image
   client:
-    id: 7SWaIO8Bx21aLaeBasz7
-    secret: kRqUMv3vRt
+    id: 
+    secret: 
 
 spring:
 
